@@ -8,6 +8,6 @@ Creating branches, merging branches, and setting repos with GitHub Desktop are a
 
 This was added by a collaborator to test merging a PR
 
-# pull request made in a different branch
+# pull request made to test merge conflict
 
 This is a slightly more complex PR made by a contributer in a different branch
