@@ -8,7 +8,5 @@ Creating branches, merging branches, and setting repos with GitHub Desktop are a
 
 This was added by a collaborator to test merging a PR
 
-# This is from a merge conflict
 
 This line should be kept, it's from a resolved merge conflict
-
